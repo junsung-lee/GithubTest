@@ -15,3 +15,5 @@ Shows the status of what has been changed/commited
 >> git status
 Shows all your commits in the past
 >> git log
+To go back to see old versions copy the shaw value from git log
+>> git checkout #shaw

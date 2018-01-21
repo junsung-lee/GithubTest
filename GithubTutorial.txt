@@ -7,9 +7,11 @@ This is a github tutorial
 >> git commit -m"Your message here"
 
 
-Here is a change
+
 
 
 Helpful Commands for Junsung
 Shows the status of what has been changed/commited
 >> git status
+Shows all your commits in the past
+>> git log

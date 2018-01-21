@@ -1,8 +1,10 @@
 This is a github tutorial
 1- Initialize a repository
->> git init
-2- Add changes to staging directory
->> git add .
+
+
+This is a huuuuuuuge mistake
+
+
 3- Commit the changes (make that new node)
 >> git commit -m"Your message here"
 

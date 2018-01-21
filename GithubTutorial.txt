@@ -7,7 +7,7 @@ This is a github tutorial
 >> git commit -m"Your message here"
 
 
-
+Here is a change
 
 
 Helpful Commands for Junsung

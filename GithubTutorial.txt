@@ -2,14 +2,8 @@ This is a github tutorial
 1- Initialize a repository
 
 
-This is a huuuuuuuge mistake
-
-
 3- Commit the changes (make that new node)
 >> git commit -m"Your message here"
-
-
-
 
 
 Helpful Commands for Junsung
